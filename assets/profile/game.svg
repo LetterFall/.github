@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="154" viewBox="0 0 280 154" role="img" aria-label="LetterFall Arena">
+  <title>LetterFall Arena</title>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif">
+    <rect x="0.5" y="0.5" width="279" height="153" rx="10" fill="#0d1424" stroke="#1e293b"/>
+    <g transform="translate(21, 16)">
+      <rect x="0.5" y="0.5" width="22" height="22" rx="5" fill="#132238" stroke="#00b4d8"/>
+      <g transform="translate(3.5, 3.5) scale(0.65)" fill="none" stroke="#38bdf8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="10" cy="13" r="7"/>
+        <path d="M14 6 L16 3 M10 6 V4"/>
+        <circle cx="16" cy="3" r="1" fill="#f59e0b" stroke="#f59e0b"/>
+      </g>
+    </g>
+    <text x="52" y="34" fill="#f8fafc" font-size="18" font-weight="700">LetterFall Arena</text>
+    <text x="22" y="66" fill="#94a3b8" font-size="13">Real-time word bomb showdown.</text>
+    <text x="22" y="86" fill="#94a3b8" font-size="13">Custom lobbies, ranked &amp; clans.</text>
+    <text x="22" y="129" fill="#38bdf8" font-size="12" font-weight="600">Play LetterFall</text>
+    <path d="M246 120h10m-4-4 4 4-4 4" fill="none" stroke="#38bdf8" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

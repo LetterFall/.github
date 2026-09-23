@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="585" height="28" viewBox="0 0 585 28" role="img" aria-label="Node.js, Express, Socket.IO, Vanilla JS, MongoDB and Vercel">
+  <title>Node.js, Express, Socket.IO, Vanilla JS, MongoDB and Vercel</title>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif">
+    
+    <!-- Node.js Pill -->
+    <rect x="0.5" y="0.5" width="92" height="27" rx="5" fill="#0d1424" stroke="#1e293b"/>
+    <g transform="translate(8, 7) scale(0.5833)" color="#38bdf8">
+      <path d="M12 2 L20.5 7 V17 L12 22 L3.5 17 V7 Z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/>
+      <path d="M12 22 V12 M12 12 L20.5 7 M12 12 L3.5 7" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/>
+    </g>
+    <text x="27" y="18" fill="#e2e8f0" font-size="12" font-weight="500">Node.js</text>
+
+    <!-- Express Pill -->
+    <rect x="100.5" y="0.5" width="88" height="27" rx="5" fill="#0d1424" stroke="#1e293b"/>
+    <g transform="translate(108, 6.5) scale(0.6)" color="#38bdf8">
+      <path d="M4 12 H20 M13 5 L20 12 L13 19" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <text x="127" y="18" fill="#e2e8f0" font-size="12" font-weight="500">Express</text>
+
+    <!-- Socket.IO Pill -->
+    <rect x="196.5" y="0.5" width="98" height="27" rx="5" fill="#0d1424" stroke="#1e293b"/>
+    <g transform="translate(204, 6.5) scale(0.6)" color="#38bdf8">
+      <circle cx="12" cy="12" r="3" fill="currentColor"/>
+      <path d="M6 6 A9 9 0 0 1 18 6 M4 4 A12 12 0 0 1 20 4 M6 18 A9 9 0 0 0 18 18 M4 20 A12 12 0 0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+    </g>
+    <text x="225" y="18" fill="#e2e8f0" font-size="12" font-weight="500">Socket.IO</text>
+
+    <!-- Vanilla JS Pill -->
+    <rect x="302.5" y="0.5" width="102" height="27" rx="5" fill="#0d1424" stroke="#1e293b"/>
+    <g transform="translate(310, 6.5) scale(0.6)" color="#38bdf8">
+      <rect x="2" y="2" width="20" height="20" rx="3" fill="none" stroke="currentColor" stroke-width="1.8"/>
+      <path d="M8 17 V14 M14 9 V15 C14 16.5 12.5 17 11 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+    </g>
+    <text x="331" y="18" fill="#e2e8f0" font-size="12" font-weight="500">JavaScript</text>
+
+    <!-- MongoDB Pill -->
+    <rect x="412.5" y="0.5" width="96" height="27" rx="5" fill="#0d1424" stroke="#1e293b"/>
+    <g transform="translate(420, 6.5) scale(0.6)" color="#38bdf8">
+      <path d="M12 2 C8 7 6 12 8 17 C10 21 12 23 12 23 C12 23 14 21 16 17 C18 12 16 7 12 2 Z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/>
+      <path d="M12 4 V22" stroke="currentColor" stroke-width="1.2"/>
+    </g>
+    <text x="439" y="18" fill="#e2e8f0" font-size="12" font-weight="500">MongoDB</text>
+
+    <!-- Vercel Pill -->
+    <rect x="516.5" y="0.5" width="68" height="27" rx="5" fill="#0d1424" stroke="#1e293b"/>
+    <g transform="translate(524, 7) scale(0.5833)" color="#38bdf8">
+      <path d="M12 3 L22 21 H2 Z" fill="currentColor"/>
+    </g>
+    <text x="543" y="18" fill="#e2e8f0" font-size="12" font-weight="500">Vercel</text>
+
+  </g>
+</svg>
