@@ -1,7 +1,7 @@
-<img src="assets/banner.svg" width="100%" alt="LetterFall — Fast-Paced Multiplayer Word Bomb Battles" />
+<img src="assets/banner.png" width="100%" alt="LetterFall — Fast-Paced Multiplayer Word Bomb Battles" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=14&amp;duration=3000&amp;pause=1300&amp;color=38BDF8&amp;background=0D1117&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=28&amp;lines=Real-Time+Multiplayer+Word+Bomb+Game.;Pass+the+bomb.+Type+the+word.+Survive.;Multi-language+battles+%E2%80%A2+Clans+%E2%80%A2+Ranked+Ladder." width="500" height="28" alt="Real-Time Multiplayer Word Bomb Game. Pass the bomb. Type the word. Survive. Multi-language battles • Clans • Ranked Ladder." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=14&amp;duration=3000&amp;pause=1300&amp;color=F59E0B&amp;background=0D1117&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=28&amp;lines=The+Ultimate+Multiplayer+Word+Arena.;Pass+the+bomb.+Type+the+word.+Survive.;Real-time+battles+%E2%80%A2+Clans+%E2%80%A2+Ranked+Ladder." width="500" height="28" alt="The Ultimate Multiplayer Word Arena. Pass the bomb. Type the word. Survive. Real-time battles • Clans • Ranked Ladder." />
 </p>
 
 <p align="center">
@@ -33,12 +33,12 @@
 
 | Feature | Description |
 | :--- | :--- |
-| 💣 **Word Bomb Mechanics** | Circular hot-potato bomb timer. Type an eligible word before the bomb explodes in your hands. |
-| ⚡ **Sub-50ms Socket Sync** | Low-latency state synchronization with reconnection recovery and real-time player heartbeats. |
+| 💣 **Word Bomb Mechanics** | Circular hot-potato bomb timer. Type an eligible word containing the target syllable before time runs out. |
+| ⚡ **Sub-50ms Socket Sync** | Low-latency state synchronization with automatic reconnection recovery and real-time player heartbeats. |
 | 🌐 **Multilingual Verification** | Native dictionary and syllable generation across **French**, **English**, **Spanish**, **German**, and **Italian**. |
 | 🏆 **Ranked Ladder &amp; Clans** | Climb competitive tiers, form player clans, earn seasonal XP, and unlock arcade badges. |
 | 🤖 **Adaptive Bot Opponents** | Intelligent AI bots with natural typing jitter and dynamic vocabulary selection. |
-| 🎨 **Arcade Customization** | Collectible bomb skins, interactive sound effects, custom explosion VFX, and dark retro aesthetic. |
+| 🎨 **Customization &amp; Audio** | Collectible bomb skins, interactive sound effects, custom explosion VFX, and dark retro aesthetic. |
 
 <br />
 

@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="112" height="30" viewBox="0 0 112 30" role="img" aria-label="Play Online">
   <title>Play Online</title>
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif">
-    <rect x="0.5" y="0.5" width="111" height="29" rx="5" fill="#0d1424" stroke="#1e293b"/>
-    <g transform="translate(8, 8) scale(0.7)" fill="none" stroke="#38bdf8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-      <polygon points="5 3 19 12 5 21 5 3" fill="#38bdf8"/>
+    <rect x="0.5" y="0.5" width="111" height="29" rx="5" fill="#18110d" stroke="#3d2617"/>
+    <g transform="translate(8, 8) scale(0.7)" fill="none" stroke="#f59e0b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <polygon points="5 3 19 12 5 21 5 3" fill="#f59e0b"/>
     </g>
-    <text x="26" y="19" fill="#e2e8f0" font-size="12" font-weight="600">Play Online</text>
-    <path d="M91 19l5-5m-5 0h5v5" fill="none" stroke="#38bdf8" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="26" y="19" fill="#f5ebe1" font-size="12" font-weight="600">Play Online</text>
+    <path d="M91 19l5-5m-5 0h5v5" fill="none" stroke="#f59e0b" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
 </svg>
